@@ -6,9 +6,7 @@ Welcome to my GitHub repository! This repository contains various CLIP model bas
 
 - [x]  Classfication using CLIP
 - [x]  Image Similarity
-- [x]  Image Captioning with CLIP   
-- [ ]  Image Finder
-- [ ]  Picture Gallery
+- [x]  Image Captioning with CLIP
 - [ ]  Unique Paint App
 
 ## Getting Started
